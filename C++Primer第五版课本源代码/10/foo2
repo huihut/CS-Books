@@ -1,0 +1,11 @@
+for i in absInt.cc accum.cc accum4.cc avg_price.cc bind2.cc \
+	elimDups.cc equal.cc equiv-istream-iter.cc inserters.cc \
+	iostream_iter.cc lambda.cc newcount-size.cc ostreamIter2.cc \
+	rcomma.cc reverse.cc reverse-iter.cc rev-iters.cc sortSI.cc \
+	use_find.cc use-istream-iter.cc
+
+do
+	echo $i
+	sed -f ../../disclaimer.sed orig$i >$i
+done
+
