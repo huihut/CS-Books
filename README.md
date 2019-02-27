@@ -9,4 +9,4 @@
 
 * [C++ Primer 英文版（第五版）](https://pan.baidu.com/s/1nvuhuit)
 
-* [C++ Primer 习题集（第5版）](https://pan.baidu.com/s/1eSqrQlO)
+* [C++ Primer 习题集（第五版）](https://pan.baidu.com/s/1eSqrQlO)
