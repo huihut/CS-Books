@@ -1,7 +1,15 @@
-## 书籍请移步网盘
+# C++ Primer 5th
 
-* [C++  Primer中文版（第五版）](https://pan.baidu.com/s/1i48my3b)
+## 源码
 
-* [C++primer第五版（英文版）](https://pan.baidu.com/s/1nvuhuit)
+```
+git clone git@github.com:huihut/Cpp_Primer_5th.git
+```
 
-* [C++ Primer习题集 第5版](https://pan.baidu.com/s/1eSqrQlO)
+## 书籍
+
+* [C++ Primer 中文版（第五版）](https://pan.baidu.com/s/1i48my3b)
+
+* [C++ Primer 英文版（第五版）](https://pan.baidu.com/s/1nvuhuit)
+
+* [C++ Primer 习题集（第5版）](https://pan.baidu.com/s/1eSqrQlO)
