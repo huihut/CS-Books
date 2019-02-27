@@ -1,8 +1,7 @@
 ## 源码
 
-```
-git clone git@github.com:huihut/Cpp_Primer_5th.git
-```
+* [zip](https://github.com/huihut/Cpp_Primer_5th/archive/1.0.zip) | [tar.gz](https://github.com/huihut/Cpp_Primer_5th/archive/1.0.tar.gz)
+* `git clone git@github.com:huihut/Cpp_Primer_5th.git`
 
 ## 书籍
 
