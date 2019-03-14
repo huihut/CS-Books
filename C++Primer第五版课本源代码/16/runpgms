@@ -1,8 +1,0 @@
-echo "Vecmain: " && ./Vecmain.exe < data/Vecmain
-echo "compareDef: " && ./compareDef.exe < data/book_sales
-
-../noinput Array.exe array-parms4.exe \
-		   compare.exe compareSpec.exe \
-		   debug.exe overloaded.exe overSpec.exe qm.exe \
-		   SP.exe special.exe specialized.exe \
-		   useBlob.exe useChcking.exe 
