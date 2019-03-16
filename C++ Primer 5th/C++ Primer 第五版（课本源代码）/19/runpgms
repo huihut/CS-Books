@@ -1,4 +1,0 @@
-../noinput bitfields.exe dyn_cast.exe enum.exe \
-		   enum-match.exe typeid.exe \
-		   useScreen.exe 
-
