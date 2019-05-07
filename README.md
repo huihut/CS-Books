@@ -1,7 +1,3 @@
 # 📚 Computer Science Books 计算机技术类书籍 PDF 文件
 
-<div align="center">
-
-[![](coding.png)](https://coding.net/?utm_source=huiha&utm_medium=banner&utm_campaign=march2019)
-
-</div> 
+本仓库的书籍来源于网络，版权归原作者所有，在此不以盈利为目的，仅限学习使用，如有侵权请联系 <huihut@outlook.com>
