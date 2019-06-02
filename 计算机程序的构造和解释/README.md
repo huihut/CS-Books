@@ -1,1 +1,0 @@
-案例与习题解答来自仓库：[Github . Perry961002/SICP](https://github.com/Perry961002/SICP)
