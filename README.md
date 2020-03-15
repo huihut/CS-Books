@@ -2,8 +2,9 @@
 
 本仓库的书籍来源于网络，版权归原作者所有，在此不以盈利为目的，仅限学习使用，如有侵权请联系 <huihut@outlook.com> 删除。
 
-1. 百度网盘：https://pan.baidu.com/s/1OEwN3e_qrNPLm_4CkMDSng 提取码：v7rj  
-2. Github：[zip](https://github.com/huihut/CS-Books/archive/1.1.zip) | [tar.gz](https://github.com/huihut/CS-Books/archive/1.1.tar.gz)
+1. 百度网盘1：链接：https://pan.baidu.com/s/1ZujRXFwqd7ZDf4V0nSogMw 提取码：hsb2    
+2. 百度网盘2：链接：https://pan.baidu.com/s/1v5MMqeXZbliLHTXX3PaGhg  提取码：9q43    
+3. Github：[zip](https://github.com/huihut/CS-Books/archive/1.1.zip) | [tar.gz](https://github.com/huihut/CS-Books/archive/1.1.tar.gz)
 
 > Github 仓库中部分超过 100M 的大文件丢失，请通过百度网盘下载
 
